@@ -1,4 +1,4 @@
-# vue-cropperjs
+# v-cropperjs
 A Vue component for use [cropperjs](https://github.com/fengyuanchen/cropperjs).
 
 Visit in [https://vv13.github.io/v-cropperjs](https://vv13.github.io/v-cropperjs).
